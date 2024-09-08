@@ -22,7 +22,7 @@ A simple Tic Tac Toe game built with Flutter. The game supports two-player mode 
 ## Screenshots
 
 ![Game Screenshot 1](tic-tac-toe-game\screenshotes\Screenshot_1725815824.png)
-![Game Screenshot 2](path/to/screenshot2.png)
+![Game Screenshot 2]('tic-tac-toe-game\screenshotes\Screenshot_1725815401.png')
 
 ## How to Play
 
@@ -37,7 +37,7 @@ A simple Tic Tac Toe game built with Flutter. The game supports two-player mode 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-flutter.git
+    git clone https://github.com/MohsenBahaj/tic-tac-toe-game.git
     ```
 
 2. Navigate to the project directory:

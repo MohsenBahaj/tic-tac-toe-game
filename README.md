@@ -21,7 +21,7 @@ A simple Tic Tac Toe game built with Flutter. The game supports two-player mode 
 
 ## Screenshots
 
-![Game Screenshot 1](path/to/screenshot1.png)
+![Game Screenshot 1](tic-tac-toe-game\screenshotes\Screenshot_1725815824.png)
 ![Game Screenshot 2](path/to/screenshot2.png)
 
 ## How to Play
